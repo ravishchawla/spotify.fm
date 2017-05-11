@@ -1,0 +1,16 @@
+{
+	'spotify' :
+	{
+		"user_name" : "iamseiko",
+		"app_name" : "Spotify.FM",
+		"client_id" : "5f6db8d23170438488be8c5392875161",
+		"client_secret" : "c72b0f30334e4acfbac05b439238cbbe"
+	},
+	'lastfm' : 
+	{
+		'client_id' : 'af9a6b815f7e71b2311cf5d4c3f64523',
+        	'client_secret' : '79bdcc6720ab92ed18c248fbd0f63566',
+        	'user_name' : 'iamseiko'
+        	'password' : 'espring7l'
+	}
+}
